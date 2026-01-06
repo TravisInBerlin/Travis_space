@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travis in Berlin</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/Travis_space/</link>
     <description>Recent content on Travis in Berlin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jan 2026 21:06:17 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Travis_space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Berlin</title>
-      <link>http://localhost:1313/posts/hello-berlin/</link>
+      <link>http://localhost:1313/Travis_space/posts/hello-berlin/</link>
       <pubDate>Tue, 06 Jan 2026 21:06:17 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-berlin/</guid>
+      <guid>http://localhost:1313/Travis_space/posts/hello-berlin/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,7 +1,8 @@
-baseURL = 'https://travisinberlin.github.io/'
+baseURL = 'https://travisinberlin.github.io/Travis_space/'
 languageCode = 'en-us'
 title = 'Travis in Berlin'
 theme = 'ananke'
 
 [params]
-featured_image = '/images/header.png'
+  featured_image = 'images/header.png'
+  site_featured_image = 'images/header.png'
