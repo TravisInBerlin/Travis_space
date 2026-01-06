@@ -2,3 +2,6 @@ baseURL = 'https://travisinberlin.github.io/'
 languageCode = 'en-us'
 title = 'Travis in Berlin'
 theme = 'ananke'
+
+[params]
+featured_image = '/images/header.png'
